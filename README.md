@@ -8,3 +8,16 @@
 ### Task 4: Applying feature scaling to normalize the input features.
 ### Task 5: Fitting the SVM classifier to the dataset and making predictions.
 ### Task 6: Visualizing training and testing sets results.
+
+
+
+## Support Vector Machine for Classification
+### ow we will build SVM algorithm in Python with classification. We will accomplish it in by completing each task in the project:
+
+Introduction – Understanding the goal of our project
+Importing our dataset and needed libraries
+Splitting the dataset (Train and Test)
+Feature Scaling for normalization
+Fitting our model and making predictions
+Building the Confusion Matrix
+Visualizing the results
