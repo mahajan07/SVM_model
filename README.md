@@ -1,5 +1,5 @@
 # Project 3
-# SVM_model
+# SVM Model Building
 
 # Project Structure:
 ### Task 1: Understanding the concept of building a Support Vector Machine classification algorithm with a real-world example.
